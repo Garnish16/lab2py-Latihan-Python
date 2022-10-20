@@ -51,7 +51,7 @@ print("Saya sedang belajar Pyton")
 3. Setelah itu jalankan file tersebut
 Berikut hasil output yang ditampilkan
 
-![hasil 1](img/hello.png)
+![hasil 1](img/setelah%20run%20hello%20-%20Copy.png)
 
 ### `Latihan 2`
 1. Buat file bernama Latihan2.py
@@ -75,7 +75,7 @@ print("hasil penjumlahan a + b = ", c)
 ```
 3. Setelah itu jalankan file tersebut
 Berikut hasil output yang ditampilkan
-![hasil 2](img/Membuat%20Variabel%20a%26b.png)
+![hasil 2](img/Hasil%20Latihan2.png)
 
 ### `Latihan 3`
 1. Buat file bernama Latihan3.py
@@ -132,12 +132,4 @@ print("Hasil akar {0} = %d".format(pangkat) % math.sqrt(pangkat))
 3. Setelah itu jalankan file dengan mengetikan diconsole terminal visual studi code  `python latihan3.py`
 Berikut hasil output yang ditampilkan
 
-![hasil 3](img/hasil3.png)
-
-____
-**Daftar ISI :**
- > - [Pengertian Python](#apa-itu-python)
- > - [Tool yang dibutuhkan](#tool-yang-dibutuhkan)
- > - [Latihan 1](#latihan-1)
- > - [Latihan 2](#latihan-2)
- > - [Latihan 3](#latihan-3)
+![hasil 3](img/Hasil%20Latihan3.png)
