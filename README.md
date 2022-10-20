@@ -1,6 +1,10 @@
 ___
-# Belajar bahasa pemrograman Python untuk pemula
-___
+# Langkah Langkah Belajar Python
+
+Nama    :   Garnish Andhika Prtama
+Nim     :   312210161
+Kelas   :   T1.22.B1
+MK      :   Bahasa Pemrograma
 **Daftar ISI :**
  > - [Pengertian Python](#apa-itu-python)
  > - [Tool yang dibutuhkan](#tool-yang-dibutuhkan)
@@ -47,7 +51,7 @@ print("Saya sedang belajar Pyton")
 3. Setelah itu jalankan file tersebut
 Berikut hasil output yang ditampilkan
 
-![hasil 1](img/hasil1.png)
+![hasil 1](img/hello.png)
 
 ### `Latihan 2`
 1. Buat file bernama Latihan2.py
@@ -71,7 +75,7 @@ print("hasil penjumlahan a + b = ", c)
 ```
 3. Setelah itu jalankan file tersebut
 Berikut hasil output yang ditampilkan
-![hasil 2](img/hasil2.png)
+![hasil 2](img/Membuat%20Variabel%20a%26b.png)
 
 ### `Latihan 3`
 1. Buat file bernama Latihan3.py

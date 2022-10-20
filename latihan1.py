@@ -1,4 +1,4 @@
-# print() method untuk menampilkan output
-# kita akan menampilkan beberapa output berupa string
-print("Haloo dunia")
-print("Saya sedang belajar Pyton")
+#menampilkan tulisan 'Hello' di layar
+print("Hello")
+#menampilkan tulisan 'Saya sedang belajar python' dilayar
+print("Saya sedang belajar python")
